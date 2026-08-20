@@ -170,7 +170,7 @@ Build reusable systems that solve most common requirements, then customize the r
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DarkCode102/DarkCode102/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/DarkCode102/DarkCode102/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
